@@ -1,0 +1,9 @@
+C:\Users\Administrateur\Documents\GitHub\TS\TS\obj\x64\Debug\GTMP_TSConnector.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\GitHub\TS\TS\obj\x64\Debug\GTMP_TSConnector.Properties.Resources.resources
+C:\Users\Administrateur\Documents\GitHub\TS\TS\obj\x64\Debug\GTMP_TSConnector.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\GitHub\TS\TS\bin\x64\Debug\GTMP_TSConnector_win64.dll
+C:\Users\Administrateur\Documents\GitHub\TS\TS\bin\x64\Debug\GTMP_TSConnector_win64.pdb
+C:\Users\Administrateur\Documents\GitHub\TS\TS\bin\x64\Debug\websocket-sharp.dll
+C:\Users\Administrateur\Documents\GitHub\TS\TS\bin\x64\Debug\websocket-sharp.xml
+C:\Users\Administrateur\Documents\GitHub\TS\TS\obj\x64\Debug\GTMP_TSConnector_win64.dll
+C:\Users\Administrateur\Documents\GitHub\TS\TS\obj\x64\Debug\GTMP_TSConnector_win64.pdb

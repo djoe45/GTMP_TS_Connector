@@ -1,0 +1,9 @@
+E:\DEV_FOLDER\GitHub\TS\TS\obj\x64\Debug\ADAGTA.Properties.Resources.resources
+E:\DEV_FOLDER\GitHub\TS\TS\obj\x64\Debug\ADAGTA.csproj.GenerateResource.Cache
+E:\DEV_FOLDER\GitHub\TS\TS\bin\x64\Debug\ADAGTA_win64.dll
+E:\DEV_FOLDER\GitHub\TS\TS\bin\x64\Debug\ADAGTA_win64.pdb
+E:\DEV_FOLDER\GitHub\TS\TS\obj\x64\Debug\ADAGTA_win64.dll
+E:\DEV_FOLDER\GitHub\TS\TS\obj\x64\Debug\ADAGTA_win64.pdb
+E:\DEV_FOLDER\GitHub\TS\TS\bin\x64\Debug\websocket-sharp.dll
+E:\DEV_FOLDER\GitHub\TS\TS\bin\x64\Debug\websocket-sharp.xml
+E:\DEV_FOLDER\GitHub\TS\TS\obj\x64\Debug\ADAGTA.csprojResolveAssemblyReference.cache

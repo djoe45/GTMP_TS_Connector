@@ -1,0 +1,7 @@
+E:\DEV_FOLDER\GitHub\TS\TS\obj\Release\ADAGTA.csprojResolveAssemblyReference.cache
+E:\DEV_FOLDER\GitHub\TS\TS\obj\Release\ADAGTA.Properties.Resources.resources
+E:\DEV_FOLDER\GitHub\TS\TS\obj\Release\ADAGTA.csproj.GenerateResource.Cache
+E:\DEV_FOLDER\GitHub\TS\TS\bin\Release\ADAGTA.dll
+E:\DEV_FOLDER\GitHub\TS\TS\bin\Release\ADAGTA.pdb
+E:\DEV_FOLDER\GitHub\TS\TS\obj\Release\ADAGTA.dll
+E:\DEV_FOLDER\GitHub\TS\TS\obj\Release\ADAGTA.pdb
